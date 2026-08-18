@@ -99,7 +99,6 @@ Everything was implemented end-to-end in **Jupyter Notebook** using **Python**, 
 📦 patient-health-records-cleaning
  ┣ 📜 patient_health_records.csv              → raw input data
  ┣ 📓 data_cleaning_notebook.ipynb             → full cleaning workflow
- ┣ 📊 profiling_report.html                    → generated profiling report
  ┣ 📜 patient_health_records_final_clean.csv   → final ML-ready output
  ┗ 📄 README.md
 ```
