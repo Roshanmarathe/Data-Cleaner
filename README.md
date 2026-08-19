@@ -35,7 +35,7 @@
 
 ### ▶️ Watch the Complete Patient Health Records Project
 
-I created a complete 7–10 minute video explaining the project from
+I created a complete video explaining the project from
 introduction to final conclusion, including data cleaning, outlier
 treatment, imputation, Winsorization, and Before vs After analysis.
 
