@@ -31,6 +31,16 @@
 
 <br>
 
+## 🎥 Project Presentation
+
+### ▶️ Watch the Complete Patient Health Records Project
+
+I created a complete 7–10 minute video explaining the project from
+introduction to final conclusion, including data cleaning, outlier
+treatment, imputation, Winsorization, and Before vs After analysis.
+
+[🎬 **Watch the Full Project Video**](https://drive.google.com/file/d/1sQ8A022Wc93GYTlcecAEU8JI3-dWHsc-/view?usp=sharing)
+
 ## 📌 Project Overview
 
 This project delivers a complete, end-to-end **data-cleaning and preprocessing pipeline** for a real-world-style **Patient Health Records dataset**, built to be analysis-ready and machine-learning-ready.
